@@ -1,1 +1,5 @@
-"# nba rule book" 
+# nba rule book
+
+the most recent rule book i could find was for the 2015-16 season. i'm writing this after the 2016-17 season has already completed, so i'm not sure when they post the most recent season. also, the NBA has recently announced proposed rule changes that have been accepted by the owners, so i suppose those need to be added to the rule book for the upcoming 2017-18 season. it's safe to assume, i think, that the NBA has an official rule book for the current season by the time that season starts, and it doesn't look like that one gets posted anywhere for the public to see
+
+i wish i had at least the most recent season, but that one hasn't been made available so i'll work with the most recent season i have which is the 2015-16 season. it's probably safe to assume that at least 95% of the rules i have are the same as what will be in the rule book for the most recent, upcoming, or current season
